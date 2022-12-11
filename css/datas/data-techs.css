@@ -1,0 +1,10 @@
+.data-techs {
+  padding: 3rem;
+}
+
+
+.data-techs div:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}

@@ -1,0 +1,17 @@
+.item {font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.8rem;}
+
+.item li {
+  list-style-position: inside;
+  list-style: disc;
+  margin-left: 2rem;
+  margin-bottom: .6rem;
+}
+
+.item p {
+  font-size: 1.2rem;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+}

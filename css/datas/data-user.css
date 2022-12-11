@@ -1,0 +1,19 @@
+.data-user {
+  padding: 3.2rem 7.6rem;
+  text-align: center;
+}
+
+.data-user img {
+  border: 2px solid rgb(16, 198, 211);
+}
+
+.data-user h1 {
+  font-weight: 700;
+  font-size: 2.3rem;
+  line-height: 3rem;
+}
+
+.data-user span {
+  font-weight: 300;
+  font-size: 1.3rem;
+}

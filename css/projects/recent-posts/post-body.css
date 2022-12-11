@@ -1,0 +1,10 @@
+.post-body {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+.post-body .tags {
+  display: flex;
+  gap: 2rem;
+}

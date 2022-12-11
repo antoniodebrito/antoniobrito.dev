@@ -1,0 +1,8 @@
+.elipse {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+
+  background: #E7DE79;
+  border: 2px solid #837E9F;
+}

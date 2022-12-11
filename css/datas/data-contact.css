@@ -1,0 +1,14 @@
+.data-contact ul{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-left: 1rem;
+}
+
+.data-contact ul a {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+

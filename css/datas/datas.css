@@ -1,0 +1,8 @@
+.datas {
+  grid-area: datas;
+  overflow-y: auto;
+}
+
+.datas::-webkit-scrollbar {
+  display: none;
+}

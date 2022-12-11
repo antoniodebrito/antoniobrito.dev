@@ -1,0 +1,27 @@
+.project-metrics {
+  display: flex;
+  align-items: center;
+  margin-top: 5rem;
+  font-size: 1.4rem;
+  justify-content: space-between;
+}
+
+.project-metrics .stats {
+  width: 20rem;
+}
+
+.project-metrics .stats,
+.project-metrics .stats .stars,
+.project-metrics .stats .forks,
+.project-metrics .techs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.project-metrics .stats .stars,
+.project-metrics .stats .forks,
+.project-metrics .techs {
+  gap: .8rem;
+}

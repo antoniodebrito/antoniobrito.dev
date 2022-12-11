@@ -1,0 +1,26 @@
+.input {
+  background: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  padding: 3rem;
+  width: 100%;
+  outline: none;
+  font-size: 2rem;
+}
+
+.input::placeholder {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.input-link {
+  position: absolute;
+  right: 7rem;
+  top: 3.4rem;
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+
+.input-link:hover {
+  transform: scale(1.1, 1.1);
+}

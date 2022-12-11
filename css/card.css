@@ -1,0 +1,15 @@
+.card {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  background: var(--bg-cards);
+  width: 34.8rem;
+  margin-bottom: 3rem;
+  padding: 3rem;
+}
+
+.card h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+

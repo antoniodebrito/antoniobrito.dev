@@ -1,0 +1,14 @@
+.post-header {
+  margin-bottom: 2.8rem;
+}
+
+.post-header h2 {
+  margin-bottom: .8rem;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+.post-header span {
+  font-weight: 400;
+  font-size: 1.4rem;
+}
